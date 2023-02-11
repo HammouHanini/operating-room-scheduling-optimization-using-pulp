@@ -98,9 +98,9 @@ class HospitalProcedureScheduling:
 
  
 
-##########################
+
 ##### SOLUTION CHECK #####
-##########################
+
 
 
 
